@@ -12,7 +12,11 @@ import java.util.ArrayList;
 public class Main {
 
     public static void main(String[] args) {
+<<<<<<< HEAD
         System.out.println("aici am modificat aceiasi linie");
+=======
+        System.out.println("l-am modificat");
+>>>>>>> branch1
         String[] xmlList = new String[6];
         xmlList[0] = "<tag1>";
         xmlList[1] = "text1";
